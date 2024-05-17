@@ -1,3 +1,20 @@
+
+First of all you should download node js
+
+step 1: you can Download  directly or clone this repository from url
+step 2: make sure you need to install dependency for that 
+   open that project directry and do below step
+step 3: npm install --force
+    here i used --force because : i used old libraries of Material UI
+
+step : npm start     
+
+    Application will start
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
